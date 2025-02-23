@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox fx:id="root" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="lab.Controller" spacing="10" alignment="CENTER" stylesheets="style.css">
+    <MenuBar>
+        <Menu text="File">
+            <MenuItem fx:id="loadBooksMenuItem" text="Load Books"/>
+            <MenuItem fx:id="themeMenuItem" text="Theme"/>
+            <MenuItem fx:id="exitMenuItem" text="Exit"/>
+        </Menu>
+        <Menu text="Shopping">
+            <MenuItem text="Clear Cart" onAction="#clearCart"/>
+            <MenuItem text="Check Out" onAction="#checkOut"/>
+        </Menu>
+    </MenuBar>
+
+    <ListView fx:id="availableBooksListView" prefHeight="200" prefWidth="200"/>
+    <Button fx:id="addToCartButton" text="Add To Cart -->"/>
+    <Button fx:id="removeFromCartButton" text="&lt;-- Remove From Cart"/>
+    <ListView fx:id="cartListView" prefHeight="200" prefWidth="200"/>
+</VBox>
