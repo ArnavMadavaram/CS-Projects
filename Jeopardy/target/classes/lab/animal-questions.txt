@@ -1,0 +1,12 @@
+400_This large mammal, known as the “King of the Jungle,” actually lives in the savannas, not the jungle._Lion
+400_This black and white bird cannot fly but is an excellent swimmer in cold waters._Penguin
+400_This domesticated animal is known for its loyalty and is often called "man's best friend."_Dog
+400_This animal, known for its black and white stripes, is a relative of the horse._Zebra
+800_This mammal is the only one capable of true flight._Bat
+800_This insect is known for its ability to lift up to 50 times its own body weight._Ant
+800_This animal is the tallest land mammal._Giraffe
+800_This marine mammal is known for its high intelligence and playful behavior and is often trained for aquatic shows._Dolphin
+1200_This nocturnal animal from the rainforests of South America has the unique ability to "glide" between trees using the loose skin between its limbs._Flying squirrel
+1200_This insect, known for its ability to communicate through intricate "waggle dances," is vital for pollination and has a complex social structure._Honeybee
+1200_This large bird, native to Australia, is the second-largest living bird by height and is known for its powerful legs and fast running speed._Emu
+1200_These animals are the only known creatures that can regenerate entire parts of their bodies, such as arms or legs, even multiple times._Starfish

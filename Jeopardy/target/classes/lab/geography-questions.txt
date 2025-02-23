@@ -1,0 +1,12 @@
+400_What is the largest country in the world by land area?_Russia
+400_What is the longest river in the world?_Nile
+400_Which desert is the largest hot desert in the world?_Sahara
+400_Which ocean is the largest by surface area?_Pacific
+800_Which mountain range separates Europe from Asia?_Ural
+800_Which country is known as the "Land of the Rising Sun"?_Japan
+800_What is the most populous city in the United States?_New York City
+800_What U.S. state has the most active volcanoes?_Alaska
+1200_What is the name of the world's deepest ocean trench?_Mariana
+1200_Which island is the largest in the world by area that is not a continent?_Greenland
+1200_What is the smallest independent country in the world by both area and population?_Vatican City
+1200_Which country is known as the "Land of a Thousand Lakes"?_Finland
