@@ -1,0 +1,11 @@
+What are Generic Types?
+Generic Types allow you to create classes, interfaces, and methods that operate on types specified by the user at runtime. This means that instead of a class being designed for a specific data type (like int or String), it can work with any type that is provided.
+
+Why are Generic Types useful?
+Generic Types provide type safety by allowing only a specified type to be used, reducing runtime errors. They also improve code reusability because you can use the same class for multiple data types without rewriting it for each one.
+
+What Java API class(es) have you already used in this class that use Generic Types?
+Classes such as ArrayList, HashMap, and HashSet in Java's Collections framework use Generics. For example, ArrayList<Integer> ensures that only Integer objects can be stored in the list.
+
+What is one specific situation where using Generic Types provides an advantage over a specific type?
+Generics are beneficial when creating collections or containers that should store multiple object types while maintaining type safety. For instance, a Box<T> class can hold various item types, such as Book or Toy, without creating separate BoxForBook and BoxForToy classes.
