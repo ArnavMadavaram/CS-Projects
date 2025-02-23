@@ -1,0 +1,9 @@
+college name
+place
+person
+subject
+activity
+place
+verb (past tense)
+event
+adjective

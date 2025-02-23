@@ -1,0 +1,12 @@
+subject
+verb
+person
+person
+place
+task
+task
+task
+task
+number
+adjective
+adjective
