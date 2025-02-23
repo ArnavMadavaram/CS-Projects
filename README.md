@@ -29,7 +29,7 @@ A collection of self-driven mini-projects showcasing my skills in software devel
 - Applied **Java Generics** for type-safe programming.  
 - Simulated real-world **networking protocols** and **error-handling mechanisms**.  
 
-## 💡 How to Use  
+## How to Use  
 
 1. Clone the repository:  
    ```bash
